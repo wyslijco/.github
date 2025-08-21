@@ -1,4 +1,4 @@
-# Wyślij.co - pomaganie nigdy nie było prostsze!
+# Pomaganie proste jak nigdy!
 
 **Jesteśmy grupą pasjonatów z branży IT. Zainicjowaliśmy ten projekt oddolnie, aby wesprzeć działalność organizacji dobroczynnych.**
 
@@ -45,3 +45,4 @@ Odwiedź [wyślij.co](https://wyslij.co) i znajdź organizację, której chcesz 
 ---
 
 💝 **Nie przyjmujemy wsparcia finansowego** - jesteśmy grupą wolontariuszy, która wykorzystuje swoją wiedzę techniczną do pomagania organizacjom charytatywnym w Polsce.
+
