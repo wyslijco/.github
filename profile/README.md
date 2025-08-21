@@ -1,4 +1,4 @@
-# Wyślij.co - wsparcie dla organizacji dobroczynnych
+# Wyślij.co - pomaganie nigdy nie było prostsze!
 
 **Jesteśmy grupą pasjonatów z branży IT. Zainicjowaliśmy ten projekt oddolnie, aby wesprzeć działalność organizacji dobroczynnych.**
 
@@ -10,7 +10,7 @@ Osoby odwiedzające dedykowane strony organizacji na wyślij.co mogą zapoznać 
 
 ## Założenia projektu
 
-Gdy rozpoczęliśmy prace nad wyślij.to zależało nam, żeby dostarczyć narzędzie które będzie:
+Gdy rozpoczęliśmy prace nad wyślij.co zależało nam, żeby dostarczyć narzędzie które będzie:
 
 1. **Pomocne** - przede wszystkim chcemy, żeby wnosiło realną wartość i wsparcie dla organizacji zmagających się z brakiem środków do działania.
 1. **Całkowicie transparentne** - otwarty kod źródłowy zapewnia 100% przejrzystości w sposobie działania wyślij.co.
@@ -19,8 +19,29 @@ Gdy rozpoczęliśmy prace nad wyślij.to zależało nam, żeby dostarczyć narz�
 1. **Zautomatyzowane** - zależy nam, żeby wyślij.co było w jak największym stopniu automatycznie funkcjonującym narzędziem i wymagało do swojego codziennego działania minimum zaangażowania także z naszej strony.
 
 
-## Chcesz pomóc?
+## Jak działamy?
 
-Nie przyjmujemy żadnego wsparcia (finansowego, czy innego typu) dla naszego projektu. Jesteśmy grupą osób, które wykorzystują swoją wiedzę, aby wesprzeć organizacje w zdobywaniu pomocy od innych.
+**wyślij.co** to platforma dla zweryfikowanych polskich organizacji charytatywnych:
 
-Aktualnie nie szukamy też nikogo do pomocy w rozwijaniu projektu. Jeżeli jednak chcesz zgłosić jakiś pomysł lub propozycję zmiany, jest to projekt otwarty: możesz utworzyć nowe Issue związane z interesującym Cię zagadnieniem lub zaproponować zmiany w kodzie tworząc Pull Request.
+- **Weryfikacja organizacji** - każda organizacja jest sprawdzana w oficjalnym rejestrze KRS oraz przez kontakt z przedstawicielami organizacji.
+- **Bezpieczeństwo danych** - wszystkie informacje przechodzą proces walidacji
+- **Otwartość kodu** - pełna transparentność działania platformy
+- **Darmowy hosting** - korzystamy z GitHub Pages, co eliminuje koszty
+
+## Chcesz się zaangażować?
+
+### Dla organizacji charytatywnych
+**Dołącz do platformy za darmo!** Wypełnij [formularz zgłoszenia](https://github.com/wyslijco/wyslijco.github.io/issues/new/choose) - po weryfikacji dodamy Twoją organizację do platformy.
+
+### Dla programistów
+Projekt jest otwarty na współpracę - możesz:
+- Zgłaszać pomysły i błędy przez [Issues](https://github.com/wyslijco/wyslijco.github.io/issues)
+- Proponować zmiany w kodzie przez Pull Requests
+- Pomagać w rozwoju funkcjonalności
+
+### Dla darczyńców
+Odwiedź [wyślij.co](https://wyslij.co) i znajdź organizację, której chcesz pomóc - każdy zakup trafia bezpośrednio do potrzebujących.
+
+---
+
+💝 **Nie przyjmujemy wsparcia finansowego** - jesteśmy grupą wolontariuszy, która wykorzystuje swoją wiedzę techniczną do pomagania organizacjom charytatywnym w Polsce.
